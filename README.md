@@ -10,6 +10,6 @@ Run the following commands:
 - yarn install
 - yarn start 
 
-- cd ekyc-front-end
+- cd eKyc-front-end
 - yarn install
 - yarn start
